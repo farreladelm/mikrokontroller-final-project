@@ -7,7 +7,7 @@
 - Sabrina Laila Sari            -   20081010224
 
 ## Modul yang digunakan:
-- (Riset Deep Learning untuk Penalaan Parameter PID pada Kit iTCLab dan Pemantauannya Menggunakan Internet of Things(IoT))[https://io-t.net/itclab/announcement/18]
+- [Riset Deep Learning untuk Penalaan Parameter PID pada Kit iTCLab dan Pemantauannya Menggunakan Internet of Things(IoT)](https://io-t.net/itclab/announcement/18)
 
 ## Modifikasi yang dilakukan:
 - Penggunaan fungsi aktivasi ReLU untuk lapisan tersembunyi (activation='relu').
