@@ -16,4 +16,9 @@
 - Penggantian metode optimasi menjadi 'sgd' (Stochastic Gradient Descent).
 - Peningkatan jumlah epoch menjadi 200.
 
+## Hasil plotting pada notebook:
 ![image](https://github.com/farreladelm/mikrokontroller-final-project/assets/72677417/38f9bb58-29a4-4206-b9a1-1feeca2391e7)
+- Model deep learning berjalan dengan baik
+- Kit tidak dapat melakukan peningkatan suhu secara signifikan melalui heater (27C --> 29C)
+
+## Hasil pemantauan pada aplikasi MQTT Panel:
