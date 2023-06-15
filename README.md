@@ -15,3 +15,5 @@
 - Penggunaan fungsi aktivasi linear (activation='linear') pada lapisan keluaran.
 - Penggantian metode optimasi menjadi 'sgd' (Stochastic Gradient Descent).
 - Peningkatan jumlah epoch menjadi 200.
+
+![image](https://github.com/farreladelm/mikrokontroller-final-project/assets/72677417/38f9bb58-29a4-4206-b9a1-1feeca2391e7)
