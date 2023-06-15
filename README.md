@@ -25,9 +25,7 @@
 <div style="displae:flex; gap: 2rem;">
     <img src="https://github.com/farreladelm/mikrokontroller-final-project/assets/72677417/3373437d-6bff-4b48-a7d6-67407a797fff" width="200">
     <img src="https://github.com/farreladelm/mikrokontroller-final-project/assets/72677417/e5988de1-14c8-4496-8c73-9410d015c0fa" width="200">
-    
+    <img src="https://github.com/farreladelm/mikrokontroller-final-project/assets/72677417/ce04736f-5c09-46f2-b3d4-a9062e79ae61" width="200">
+    <img src="https://github.com/farreladelm/mikrokontroller-final-project/assets/72677417/2cf11555-198e-4a94-8574-d8570c66280b" width="200">
  </div>
-![2](https://github.com/farreladelm/mikrokontroller-final-project/assets/72677417/e5988de1-14c8-4496-8c73-9410d015c0fa)
-![3](https://github.com/farreladelm/mikrokontroller-final-project/assets/72677417/ce04736f-5c09-46f2-b3d4-a9062e79ae61)
-![4](https://github.com/farreladelm/mikrokontroller-final-project/assets/72677417/2cf11555-198e-4a94-8574-d8570c66280b)
 
